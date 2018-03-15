@@ -5,7 +5,7 @@
 
 rabbitpy: RabbitMQ Simplified
 =============================
-rabbitpy是一个纯python开发,线程更安全,遵循BSD开源协议、AMQP/RabbitMQ协议的类库，支持Python 2.6+ 和 3.2+。 rabbitpy aims to provide a simple and easy to use API for interfacing with RabbitMQ, minimizing the programming overhead often found in other libraries.
+rabbitpy是一个纯python开发,线程更安全,遵循BSD开源协议、AMQP/RabbitMQ协议的类库，支持Python 2.6+ 和 3.2+。 rabbitpy目的是为RabbitMQ提供一个简单易用的API接口 aims to provide a simple and easy to use API for interfacing with RabbitMQ, minimizing the programming overhead often found in other libraries.
 
 |Version|
 
